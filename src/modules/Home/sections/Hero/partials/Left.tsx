@@ -32,7 +32,7 @@ const Left = () => {
 
             <div className='my-5 md:my-8 leading-7 text-slate-400 md:text-lg max-w-3xl' >
                <AnimatedTextWord 
-                  text="Highly motivated and very passionate Full Stack Developer with three years of experience in Typescript, React js, Next js, Firebase, Tailwind CSS, Material UI, Node js, Express js, MongoDB"
+                  text="I'm a senior full-stack engineer with 5+ years of experience in React, TypeScript, Blockchain, AI, Node.js, and Next.js. I specialize in building innovative, scalable applications that leverage emerging technologies to deliver cutting-edge solutions to clients. With a strong background in project management and team leadership, I've successfully led cross-functional teams to deliver high-quality software on time and within budget. Now, I am actively seeking opportunities to advance my career as a senior full stack engineer by further developing my skills and expertise. If  you're looking for an experienced full-stack engineer who can help you bring your vision to life, then let's work together!"
                   className='text-sm sm:text-lg justify-center lg:justify-start'
                />
             </div>

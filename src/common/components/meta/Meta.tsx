@@ -7,8 +7,7 @@ const Meta = () => {
 
       <title> Rodolfo Benjamim : Portfolio </title>
 
-      <meta name="description" content='Highly motivated and very passionate Full Stack Developer with 5 years of experience in React.js, Next.js, Node.js, C#, ASP.NET Core, Express.js, TypeScript, Javascript, HTML, CSS' />
-      <meta
+      <meta name="description" content="I'm a senior full-stack engineer with 5+ years of experience in React, TypeScript, Blockchain, AI, Node.js, and Next.js. I specialize in building innovative, scalable applications that leverage emerging technologies to deliver cutting-edge solutions to clients. With a strong background in project management and team leadership, I've successfully led cross-functional teams to deliver high-quality software on time and within budget. Now, I am actively seeking opportunities to advance my career as a senior full stack engineer by further developing my skills and expertise. If  you're looking for an experienced full-stack engineer who can help you bring your vision to life, then let's work together!" />      <meta
         name="keywords"
         content="Web Development Company, Best Web development agency, Web Development Services, Website Development Company, Website Development Services, Website Development Bangladesh, Web Development Bangladesh, Company, Services, Bangladesh, Flexsin, Flexsin Technologies"
       />
@@ -26,7 +25,7 @@ const Meta = () => {
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:site" content="@raihanhosen01" />
       <meta name="twitter:creator" content="@raihanhosen01" />
-      <meta name="twitter:description" content='Highly motivated and very passionate Full Stack Developer with 5 years of experience in React.js, Next.js, Node.js, C#, ASP.NET Core, Express.js, TypeScript, Javascript, HTML, CSS' />
+      <meta name="twitter:description" content="I'm a senior full-stack engineer with 5+ years of experience in React, TypeScript, Blockchain, AI, Node.js, and Next.js. I specialize in building innovative, scalable applications that leverage emerging technologies to deliver cutting-edge solutions to clients. With a strong background in project management and team leadership, I've successfully led cross-functional teams to deliver high-quality software on time and within budget. Now, I am actively seeking opportunities to advance my career as a senior full stack engineer by further developing my skills and expertise. If  you're looking for an experienced full-stack engineer who can help you bring your vision to life, then let's work together!" />
       <meta name="twitter:image" content='https://raihanhosen01.com/images/raihanhosen.png' />
     </>
   );

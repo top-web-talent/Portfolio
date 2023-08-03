@@ -11,10 +11,10 @@ export const navData = [ "About", "Accomplishments", "Works", "Contact" ]
 export const projects : ProjectTypes[] = [
     {
         title : "Portfolio website",
-        description : "Personal Website V2 Second iteration of my personal website. Designed and developed with a conscious effort to avoid Personal Website V1 Second iteration of my personal website. and Also I add Blog section and saleing system",
+        description : "The introduction of Next.js app routing presented me with the ideal prospect to develop an exceptional portfolio. As such, I embarked on a series of steps to achieve this objective.",
         tech : [ "Next js 13", "Tailwind CSS", "Express js", "MongoDB" ],
-        code : 'https://github.com/raihanhosen011/developer-portfolio',
-        live : 'https://raihanhosen.com',
+        code : 'https://github.com/top-web-talent/portfolio.git',
+        live : 'https://rodolfobenjamim.com',
         thumnail : "portfolio-v2.png",
         featured : true
     },

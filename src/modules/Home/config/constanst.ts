@@ -1,2 +1,2 @@
 // skill list
-export const skills = [ "Typescript", "Javascript","React js", "Next js", "Tailwind CSS", "Material UI", "Firebase", "Node js", "Express js", "MongoDB", "Socket.io", "webRtc", "Prisma", "Postgre sql", "AWS", "Docker", "GraphQL" ]
+export const skills = [ "React", "React Native", "Blockchain", "Angular", "Next.js", "Nuxt.js", "Gatsby", "Vue.js", "HTML5", "TailwindCSS", "BootStrap", "Directus CMS", "Ghost CMS", "Tina CMS", "Sanity.io", "MaterialUI", "Charkra UI", "Headless UI", "React-query", "Redux", "JavaScript", "TypeScript", "GraphQL", "Cypress", "Chai", 'Jest', "Git", "Prettier", "Figma", "Webpack", "Gulp", "BitBuckets", "Grunt", "npm", "Yarn", "Babel", "ESLint", "PostCSS", "Sass/SCSS", "Less", "Stylus" ]
