@@ -15,41 +15,25 @@ export const projects : ProjectTypes[] = [
         tech : [ "Next js 13", "Tailwind CSS", "Express js", "MongoDB" ],
         code : 'https://github.com/top-web-talent/portfolio.git',
         live : 'https://rodolfobenjamim.com',
-        thumnail : "portfolio-v2.png",
+        thumnail : "portfolio.png",
         featured : true
     },
 
     {
-        title : "DG Team",
-        description : "'Dg team' an company management system. I use this system for front end “Next js, Tailwind CSS, Axios, Redux, Redux-thunk, Formik, Yup, react-query” and for Backend “Node js, Express js, MongoDB, Socket.io, webRtc”",
-        tech : [ "Next js", "tailwind CSS", "Redux", "Node js" ],
-        live : 'https://dgteam.vercel.app/',
-        thumnail : "dg-team.png",
+        title : "Fireflies.ai",
+        description : "Fireflies: AI meeting assistant Designed and developed the core architecture of Fireflies, an AImeeting assistant,",
+        tech : [ "React.js", "Vue.js", "AngularJS",  "Web3.js", "Django ...." ],
+        live : 'https://fireflies.ai/',
+        thumnail : "fireflies.png",
         featured : true
     },
 
     {
-        title : "Airebix",
-        description : "Airebix is an web development agency website. ",
-        tech : [ "Next js", "tailwind CSS", "Redux", "Node js" ],
+        title : "Dextra",
+        description : "Led the development of Dextra, a next-generation e-commerce platform, by collaborating with cross-functional teams to design and implement the core architecture.",
+        tech : [ "React", "core-js", "Lodash", "Squarespace", "Priority Hints ..." ],
         live : 'airebix.com',
-        thumnail : "airebix.png",
+        thumnail : "dextra.png",
+        featured: true
     },
-
-    {
-        title : "Amazon clone",
-        description : "I clone World Largest E-commerce website Amazon using react js",
-        tech : [ "React js", "Redux" ],
-        code : 'https://github.com/raihanhosen011/amazon-nw',
-        live : 'https://amazon-nw.vercel.app/',
-        thumnail : "amazon.png"
-    },
-
-    {
-        title : "Powermall",
-        description : "This is an largest e-commerce website of bangladesh",
-        tech : [ "next js", "tailwind css", "MERN" ],
-        live : 'https://powermall.com',
-        thumnail : "powermall.png"
-    }
 ]
