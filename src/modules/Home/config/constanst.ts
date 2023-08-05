@@ -1,2 +1,6 @@
 // skill list
-export const skills = [ "React", "React Native", "Blockchain", "Angular", "Next.js", "Nuxt.js", "Gatsby", "Vue.js", "HTML5", "TailwindCSS", "BootStrap", "Directus CMS", "Ghost CMS", "Tina CMS", "Sanity.io", "MaterialUI", "Charkra UI", "Headless UI", "React-query", "Redux", "JavaScript", "TypeScript", "GraphQL", "Cypress", "Chai", 'Jest', "Git", "Prettier", "Figma", "Webpack", "Gulp", "BitBuckets", "Grunt", "npm", "Yarn", "Babel", "ESLint", "PostCSS", "Sass/SCSS", "Less", "Stylus" ]
+interface MyTArray {
+  [index: number]: [string, number]
+}
+
+export const skills: MyTArray = [ ["React", 10], ["Next.js", 10], ["Nuxt.js", 8], ["Gatsby", 8], ["Vue.js", 4], ["Sanity.io", 10], ["JavaScript", 10], ["TypeScript", 10], ["GraphQL", 6], ["Cypress", 9]]

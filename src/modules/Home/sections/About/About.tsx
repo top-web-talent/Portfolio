@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 //
 import Left from './partials/Left'
 import Right from './partials/Right'
+import Bottom from './partials/Bottom'
 //
 import { fadeLeft, motionStep } from '@config/motion'
 
@@ -19,6 +20,9 @@ const About = () => {
       <div className='grid grid-cols-1 lg:grid-cols-5 gap-x-20' >
         <Left />
         <Right /> 
+      </div>
+      <div>
+        <Bottom />
       </div>
 
     </section>
