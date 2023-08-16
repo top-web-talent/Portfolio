@@ -19,6 +19,7 @@ const Bottom = () => {
                 background: "none",
                 borderRadius: "0",
               }}
+              key={skill['0']}
             >
               <span
                 style={{
