@@ -4,7 +4,7 @@ import Image from 'next/image'
 const Glassify = () => {
   return (
     <>
-      <Image
+      <img
         alt=""
         src="/images/glassify/blur-cyan-0.png"
         width="530"

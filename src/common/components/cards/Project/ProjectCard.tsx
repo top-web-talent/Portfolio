@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import { motion } from 'framer-motion'
-import Image from 'next/legacy/image'
+import Image from 'next/image'
 //
 import { RiFilePaperLine } from 'react-icons/ri'
 import { HiOutlineExternalLink } from 'react-icons/hi'

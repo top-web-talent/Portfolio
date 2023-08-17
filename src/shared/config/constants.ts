@@ -32,7 +32,7 @@ export const projects : ProjectTypes[] = [
         title : "Dextra",
         description : "Led the development of Dextra, a next-generation e-commerce platform, by collaborating with cross-functional teams to design and implement the core architecture.",
         tech : [ "React", "core-js", "Lodash", "Squarespace", "Priority Hints ..." ],
-        live : 'airebix.com',
+        live : 'https//dextra.com',
         thumnail : "dextra.png",
         featured: true
     },

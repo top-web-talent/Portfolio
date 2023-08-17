@@ -2,11 +2,13 @@
   "name": "next-13",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://top-web-talent.github.io/Portfolio.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "npm run build && npx gh-pages -d out"
   },
   "dependencies": {
     "@next/font": "^13.0.2",
